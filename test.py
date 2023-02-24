@@ -5,7 +5,7 @@ warnings.filterwarnings("ignore", category=plt.cbook.mplDeprecation)
 import pandas as pd
 
 import openai
-openai.api_key = "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"
+openai.api_key = "INSERT_OPENAI_KEY_HERE"
 
 # Limpiar la consola
 print("\033c")
