@@ -1,6 +1,6 @@
 # HydroIQ
 
-## Features
+## Presentation
 
 https://www.canva.com/design/DAFbgQjz7yU/ns06kH-VtrOHosYurzCjvg/view?utm_content=DAFbgQjz7yU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
