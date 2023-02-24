@@ -1,5 +1,9 @@
 # HydroIQ
 
+## Features
+
+https://www.canva.com/design/DAFbgQjz7yU/ns06kH-VtrOHosYurzCjvg/view?utm_content=DAFbgQjz7yU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 HydroIQ is a Python script that uses artificial intelligence to calculate the water quality index (WQI) and provide feedback to users. By analyzing data on various water quality parameters, including temperature, pH, dissolved oxygen, and nutrient levels, HydroIQ can generate a numerical score that indicates the overall health of a body of water.
 
 HydroIQ is designed to be easy to use and highly customizable. Users can specify which parameters to include in the WQI calculation and set custom thresholds for each parameter based on their specific needs. HydroIQ also includes a feedback mechanism that uses machine learning algorithms to suggest potential solutions for improving water quality based on past data.
