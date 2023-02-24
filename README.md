@@ -20,27 +20,27 @@ HydroIQ is designed to be easy to use and highly customizable. Users can specify
 ## Installation
 
 1. Clone the repository from GitHub:
-git clone https://github.com/yourusername/hydroiq.git
+  
+```console
+$ git clone https://github.com/yourusername/hydroiq.git
+```
 
 2. Install the required Python packages using pip:
-pip install numpy pandas scikit-learn openai
+  
+```console
+$ pip install pandas openai matplotlib
+```
 
 3. Specify your OpenAI API key in the `hydroiq.py` file at the top:
+```python
 import openai
 
 openai.api_key = "YOUR_API_KEY_HERE"
+```
 
 ## Usage
 
 To run HydroIQ, navigate to the project directory in your terminal and run the following command:
 python hydroiq.py
 
-You can customize the script by modifying the `config.json` file in the project directory. This file contains settings for the WQI calculation and feedback mechanism.
-
-## Contributing
-
-If you would like to contribute to HydroIQ, feel free to submit a pull request with your changes. Please make sure to follow the existing code style and include tests for any new functionality.
-
-## License
-
-HydroIQ is licensed under the MIT License. See the `LICENSE` file for more information.
+You can customize the script by modifying the `hydroiq.py` file in the project directory. This file contains settings for the WQI calculation and feedback mechanism.
